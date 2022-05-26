@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /tmp/holberton
+chmod 753 hello 
